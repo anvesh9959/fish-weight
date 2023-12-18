@@ -4,7 +4,7 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 import warnings
 warnings.simplefilter("ignore")
-data = pd.read_csv("C:\\Users\\Varun Kumar\\Desktop\\fish-weight-prediction\\fish.csv")
+data = pd.read_csv("C:\\fish-weight-prediction\\fish.csv")
 # print(data.head())
 # print(data.info)
 # print(data.isnull().sum())
